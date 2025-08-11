@@ -152,3 +152,9 @@ for Key Falling.
 
 ![image](https://github.com/user-attachments/assets/ba4188d6-2372-4d92-8f40-02d73291a559)
 
+
+# Final Comments on the Project
+
+I have faced many issues building this game as the codes didn't work for Godot version 4.4, only 4.3, most of the time I have try to play, it gave me many errors.
+However, I have learned about falling items and making Sprites animated and that making a rhythm game is not easy but very complex for me.
+I then learned many stuff about codes on signals and such, and I can use the knowledge I learned in this game for future projects.
