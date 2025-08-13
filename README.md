@@ -12,11 +12,12 @@ It has a grade performance on the notes and a score function.
 Notes.
 
 Backgrounds.
-![141c66b99732dd2b2ca688139c42f92a 500x500x1](https://github.com/user-attachments/assets/6f8d90e6-bc4d-4f1e-b32c-bbc81644d60c)
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/c4fe76de-a726-4161-9067-fff8182298e5" />
+
 ![images](https://github.com/user-attachments/assets/b44f89ad-2393-4c90-b157-6fac33680e39)
 
 Songs (Youtube)
-Level 1 - (https://youtu.be/F8NfHAe5RM4?feature=shared)
+Level 1 - (https://youtu.be/XZuM4zFg-60?feature=shared)
 Level 2 - (https://youtu.be/SSbBvKaM6sk?feature=shared)
 
 # Codes 
